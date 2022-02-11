@@ -12,3 +12,5 @@ a=inout()
 b=inout()
 cin >> a >> b
 cout << inout(int(a)+int(b)) << endl
+
+Sorry for my English🤡
