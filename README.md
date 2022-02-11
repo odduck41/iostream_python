@@ -6,13 +6,14 @@ You should make a new variable with "inout" type, and use "cin>>" for input the 
 Also you can use the endl!
 
 E.X:
-
+<p></p>
 from iostream import *
-a=inout()
-b=inout()
-cin >> a >> b
-cout << inout(int(a)+int(b)) << endl
-
+<p></p>a=inout()
+<p></p>b=inout()
+<p></p>cin >> a >> b
+<p></p>cout << inout(int(a)+int(b)) << endl
+<p></p>
+<p></p>
 Sorry for my English🤡
 
 
