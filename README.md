@@ -6,11 +6,15 @@ You should make a new variable with "inout" type, and use "cin>>" for input the 
 Also you can use the endl!
 
 E.X:
-from iostream import *
 
+from iostream import *
 a=inout()
 b=inout()
 cin >> a >> b
 cout << inout(int(a)+int(b)) << endl
 
 Sorry for my English🤡
+
+
+note:
+cin is working how input(), long story short, you should press enter, for input next variable
