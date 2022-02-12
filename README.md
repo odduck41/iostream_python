@@ -16,4 +16,5 @@ E.X:
 
 note:
 cin is working how input(), long story short, you should press enter, for input next variable
+
 Sorry for my English🤡
