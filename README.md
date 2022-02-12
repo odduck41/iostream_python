@@ -11,7 +11,7 @@ E.X:
 	a=inout()
 	b=inout()
 	cin >> a >> b
-	cout << inout(int(a)+int(b)) << endl
+	cout << int(a)+int(b) << endl
 
 
 note:
