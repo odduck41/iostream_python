@@ -10,11 +10,13 @@ E.X:
 	from iostream import *
 	a=inout()
 	b=inout()
-	cin >> a >> b
-	cout << int(a)+int(b) << endl
+	cin >> a >> b #1\n2
+	cout << int(a)+int(b) << endl#3\n
+
 
 
 note:
+
 cin is working how input(), long story short, you should press enter, for input next variable
 
 Sorry for my English🤡
