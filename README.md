@@ -10,8 +10,8 @@ E.X:
 	from iostream import *
 	a=inout()
 	b=inout()
-	cin >> a >> b #1\n2
-	cout << int(a)+int(b) << endl#3\n
+	cin >> a >> b  #1\n2
+	cout << int(a)+int(b) << endl  #3\n
 
 
 
