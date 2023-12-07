@@ -17,5 +17,5 @@ E.X:
 \
 note:\
 \
-cin is working how input(), in short, you should press enter, for input next variable\
+cin is working like input(), in short, you should press enter, for input next variable\
 Attention, crutches🤡
